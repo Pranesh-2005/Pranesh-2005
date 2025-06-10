@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning B.Tech Artificial Intelligence And Machine Learning.
 - 💞️ I’m looking to collaborate on Machine Learning ,Java and Cloud Projects
 - 📫 How to reach me (https://www.linkedin.com/in/pranesh5264/)
-- ⚡ Quote "You can't WIN if you dont't FIGHT, FIGHT..."
-- 🥽 Visit My Portfolio https://pranesh-2005.github.io/Portfolio/
+- ⚡ Quote "You can't WIN if you dont't FIGHT, FIGHT...". 
 
 <!---
 Pranesh-2005/Pranesh-2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
