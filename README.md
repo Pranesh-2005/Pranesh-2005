@@ -54,7 +54,7 @@ I'm a passionate pre-final year B.Tech student specializing in **Artificial Inte
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranesh-2005/pranesh-2005/output/snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
 </p>
 
 ---
