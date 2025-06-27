@@ -59,18 +59,6 @@ I'm a passionate pre-final year B.Tech student specializing in **Artificial Inte
 
 ---
 
-### 🟡 GitHub Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranesh-2005/pranesh-2005/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranesh-2005/pranesh-2005/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/pranesh-2005/pranesh-2005/output/pacman-contribution-graph.svg" alt="pacman animation">
-  </picture>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
