@@ -76,6 +76,14 @@ I'm a passionate pre-final year B.Tech student specializing in **Artificial Inte
 
 ---
 
+### 👁 Profile Views 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
+</p>
+
+
+---
 ### 🔗 Connect with Me
 
 <p align="center">
