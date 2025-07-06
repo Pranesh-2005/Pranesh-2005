@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a passionate pre-final year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**. I enjoy building intelligent systems, AI agents, and cloud-based applications. I’m proficient in Python, C, Java, SQL, and deeply interested in **LLMs, Generative AI, AI Agents, and Software Development**.
+I'm a passionate Final year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**. I enjoy building intelligent systems, AI agents, and cloud-based applications. I’m proficient in Python, C, Java, SQL, and deeply interested in **LLMs, Generative AI, AI Agents, and Software Development**.
 
 ---
 
