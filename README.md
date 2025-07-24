@@ -71,9 +71,8 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-2005&theme=radical&fire=FF6C6C"/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=pranesh-2005&theme=radical&fire=FF6C6C"/>
 </p>
-
 ---
 
 ### 👁 Profile Views 
