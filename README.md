@@ -17,29 +17,13 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
 ---
 
 ### 🧠 My Skills
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./gif.gif">
   <source media="(prefers-color-scheme: light)" srcset="./gif.gif">
   <img align="left" alt="GIF description" src="./gif.gif">
 </picture>
 <br />
-
-<h3 align="left">💡 Skills & Current Learnings</h3>
-
-<ul align="left">
-  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
-
-  <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
-
-  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
-
-  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
-
-  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
-</ul>
-
-
 ---
 
 ### 💼 Projects
