@@ -12,42 +12,42 @@
 
 ### 🚀 About Me
 
-I'm a passionate Final year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**. I enjoy building intelligent systems, AI agents, and cloud-based applications. I’m proficient in Python, C, Java, SQL, and deeply interested in **LLMs, Generative AI, AI Agents, and Software Development**.
+I'm a passionate Final year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
+I enjoy building intelligent systems, AI agents, and cloud-based applications.  
+I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, Generative AI, AI Agents, and Software Development**.
 
 ---
 
 ### 🧠 My Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./gif.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./gif.gif">
-  <img align="left" alt="GIF description" src="./gif.gif">
-</picture>
-<br />
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./gif.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./gif.gif">
+    <img alt="GIF description" src="./gif.gif" width="300"/>
+  </picture>
+</p>
 
 ---
 
 ### 💼 Projects
 
-- 🔥 **GPT-2 Tanglish Chatbot:** Built a WhatsApp-like conversational bot using GPT-2 with QLoRA (4-bit quantization) for efficient training on RTX 3050 (6GB). Enhanced with TF-IDF + Cosine Similarity for better contextual understanding.
-  
-- 😊 **Emotion Detection using BERT:** Developed an NLP model using BERT for accurate sentiment analysis with deployment-ready interfaces using Gradio.
-
-- 🤖 **Telegram Chatbot:** Engineered a chat-mimicking Telegram bot trained on user chat logs, deployed on Railway with cloud scaling.
+- 🔥 **GPT-2 Tanglish Chatbot:** Built a WhatsApp-like conversational bot using GPT-2 with QLoRA (4-bit quantization) for efficient training on RTX 3050 (6GB). Enhanced with TF-IDF + Cosine Similarity for better contextual understanding.  
+- 😊 **Emotion Detection using BERT:** Developed an NLP model using BERT for accurate sentiment analysis with deployment-ready interfaces using Gradio.  
+- 🤖 **Telegram Chatbot:** Engineered a chat-mimicking Telegram bot trained on user chat logs, deployed on Railway with cloud scaling.  
 
 ---
 
 ### 🎯 Areas of Interest
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI & LLMs
-- AI Agents & Automation
-- Software Development
-- Cloud Computing
-- Vector Databases (ChromaDB)
-- Database Design & Management
+- Artificial Intelligence  
+- Machine Learning  
+- Generative AI & LLMs  
+- AI Agents & Automation  
+- Software Development  
+- Cloud Computing  
+- Vector Databases (ChromaDB)  
+- Database Design & Management  
 
 ---
 
@@ -71,9 +71,8 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
 ### 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-2005&theme=vue-dark&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-2005&theme=vue-dark&hide_border=true"/>
 </p>
-
 
 ---
 
@@ -83,8 +82,8 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
   <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
 </p>
 
-
 ---
+
 ### 🔗 Connect with Me
 
 <p align="center">
