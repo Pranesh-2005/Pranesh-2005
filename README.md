@@ -17,14 +17,28 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
 ---
 
 ### 🧠 My Skills
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./gif.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./gif.gif">
+  <img align="left" alt="GIF description" src="./gif.gif">
+</picture>
+<br />
 
-| Languages | Frameworks & Tools | Technologies |
-|-----------|---------------------|---------------|
-| ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=blue) | ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge) |
-| ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java) | ![Gradio](https://img.shields.io/badge/Gradio-3f3f3f?style=for-the-badge) | ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-green?style=for-the-badge) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) | ![Railway](https://img.shields.io/badge/Railway-black?style=for-the-badge) | ![NLP](https://img.shields.io/badge/NLP-purple?style=for-the-badge) |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) | ![Vector Database](https://img.shields.io/badge/ChromaDB-007ACC?style=for-the-badge) |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) | ![Cloud Computing](https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge) |
+<h3 align="left">💡 Skills & Current Learnings</h3>
+
+<ul align="left">
+  <li>🤖 <strong>Machine Learning & AI</strong><br>Core concepts, model training, and real-world applications.</li><br>
+
+  <li>⚛️ <strong>React.js</strong><br>Component architecture, advanced patterns, and state management (Redux, Context, Zustand).</li><br>
+
+  <li>☁️ <strong>Cloud Computing (AWS & Azure)</strong><br>Deployments, serverless functions, and storage solutions.</li><br>
+
+  <li>🧠 <strong>Deep Learning</strong><br>Model building using TensorFlow and PyTorch.</li><br>
+
+  <li>🛠️ <strong>DevOps</strong><br>Docker, Kubernetes, and CI/CD pipeline basics.</li>
+</ul>
+
 
 ---
 
