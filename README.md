@@ -24,6 +24,8 @@ I'm a passionate Final year B.Tech student specializing in **Artificial Intellig
   <img align="left" alt="GIF description" src="./gif.gif">
 </picture>
 <br />
+
+
 ---
 
 ### 💼 Projects
