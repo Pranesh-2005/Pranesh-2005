@@ -22,9 +22,9 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./praneshskill.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./praneshskill.gif">
-    <img alt="GIF description" src="./gif.gif" width="300"/>
+    <source media="(prefers-color-scheme: dark)" srcset="./skills.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./skills.gif">
+    <img alt="GIF description" src="./skills.gif" width="300"/>
   </picture>
 </p>
 
