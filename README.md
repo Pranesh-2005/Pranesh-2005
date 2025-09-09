@@ -20,7 +20,12 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 
 ### 🧠 My Skills
 
-<video src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/main/pranesh-skill.mp4" autoplay loop muted playsinline></video>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skills.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./skills.gif">
+  <img align="centre" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+
 
 ---
 
