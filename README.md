@@ -21,9 +21,9 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 ### 🧠 My Skills
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./skills.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./skills.gif">
-  <img align="centre" alt="GIF description" src="./Skills_Animation_White.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="./skill.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./skill.gif">
+  <img align="centre" alt="GIF description" src="./skill.gif">
 </picture>
 
 
