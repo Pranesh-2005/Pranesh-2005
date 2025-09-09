@@ -20,11 +20,10 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 
 ### 🧠 My Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./skill.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./skill.gif">
-  <img align="centre" alt="GIF description" src="./skill.gif">
-</picture>
+<p align="center">
+  <img src="skills.webp" alt="Skills Animation" width="400">
+</p>
+
 
 
 ---
