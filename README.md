@@ -70,7 +70,7 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-2005&theme=vue-dark&hide_border=true"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical&cache_second=0" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical" height="150" />
 </p>
 
 ---
