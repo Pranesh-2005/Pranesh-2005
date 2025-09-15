@@ -60,6 +60,7 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 ### 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical&v=1)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical&v=1)
 
 ---
 
