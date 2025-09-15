@@ -69,8 +69,7 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranesh-2005&theme=vue-dark&hide_border=true"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical&cache_second=6&v=3" height="250" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical&cache_second=6&v=4" height="250" />
 </p>
 
 ---
