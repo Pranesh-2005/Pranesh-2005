@@ -67,6 +67,7 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 ### 🔥 Contribution Streak
 
 
+![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical&v=1)
 
 ---
 
