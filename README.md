@@ -71,6 +71,18 @@ I’m proficient in **Python, C, Java, SQL**, and deeply interested in **LLMs, G
 
 ---
 
+
+---
+
+### ⏲ WakaTime Stats
+
+
+![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=praneshjs)
+
+---
+
+
+
 ### 👁 Profile Views 
 
 <p align="center">
