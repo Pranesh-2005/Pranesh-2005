@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub%20Hub&fontSize=30&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=எல்லா%20புகழும்%20இறைவனுக்கே%20✝%20🕉%20☪&fontSize=32&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=30&fontColor=ffffff"/>
 </p>
 
 <h2 align="center">👋 Hi there, I'm Pranesh</h2>
