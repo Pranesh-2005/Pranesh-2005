@@ -68,7 +68,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical)  
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical&cache_seconds=0)  
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)  
 
 ---
