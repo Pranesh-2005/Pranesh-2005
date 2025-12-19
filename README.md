@@ -21,14 +21,15 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ### 🧠 My Skills
 
+<h2 align="center">Things I'm Good At</h2> 
 
-<h2 align="center">Things I'm Good IN</h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./skill-black.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./skill.gif">
-  <img align="left" alt="GIF description" src="./skill.gif">
-</picture>
-<br />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./skill-black.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./skill.gif">
+    <img alt="Skills Animation" src="./skill.gif">
+  </picture>
+</p>
 
 ---
 
