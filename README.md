@@ -21,10 +21,11 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ### 🧠 My Skills
 
-- **AI/ML:** Machine Learning, Deep Learning, NLP, Transformers (GPT-2, GPT-3), Vision Models, AI Agents, MCP (Model Context Protocol), ChromaDB  
-- **Programming:** Python (Basics), SQL, C, Java, OOPS  
-- **Tools & Platforms:** YAML, Git, Docker, Cloud Computing (Azure), MCP Servers  
-- **Other:** Azure Cloud, Software Development, Automation  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./skill-black.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./skill.gif">
+  <img align="left" alt="GIF description" src="./skill.gif">
+</picture>
 
 ---
 
