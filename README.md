@@ -20,6 +20,8 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ---
 
 ### 🧠 My Skills
+
+
 <h2 align="center">Things I'm Good IN</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./skill-black.gif">
@@ -27,6 +29,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
   <img align="left" alt="GIF description" src="./skill.gif">
 </picture>
 <br />
+
 ---
 
 ### 💼 Projects
