@@ -28,11 +28,9 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
   </tr>
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/c" width="48"/><br>C</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48"/><br>Java</td>
     <td><img src="https://cdn.simpleicons.org/python" width="48"/><br>Python</td>
     <td><img src="https://cdn.simpleicons.org/go" width="48"/><br>Go</td>
-    <td><img src="https://cdn.simpleicons.org/javascript" width="48"/><br>JavaScript</td>
-    <td><img src="https://cdn.simpleicons.org/html5" width="48"/><br>HTML</td>
-    <td><img src="https://cdn.simpleicons.org/css3" width="48"/><br>CSS</td>
     <td><img src="https://cdn.simpleicons.org/gnubash" width="48"/><br>Bash</td>
   </tr>
 
@@ -41,13 +39,13 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
     <td colspan="7" align="center"><b>🤖 AI / LLM / Machine Learning</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/openai" width="48"/><br>OpenAI</td>
-    <td><img src="https://cdn.simpleicons.org/ollama" width="48"/><br>Ollama</td>
-    <td><img src="https://cdn.simpleicons.org/langchain" width="48"/><br>LangChain</td>
-    <td><img src="https://cdn.simpleicons.org/claude" width="48"/><br>Claude</td>
     <td><img src="https://cdn.simpleicons.org/tensorflow" width="48"/><br>TensorFlow</td>
     <td><img src="https://cdn.simpleicons.org/pytorch" width="48"/><br>PyTorch</td>
     <td><img src="https://cdn.simpleicons.org/keras" width="48"/><br>Keras</td>
+    <td><img src="https://cdn.simpleicons.org/langchain" width="48"/><br>LangChain</td>
+    <td><img src="https://cdn.simpleicons.org/ollama" width="48"/><br>Ollama</td>
+    <td><img src="https://cdn.simpleicons.org/modelcontextprotocol" width="48"/><br>MCP</td>
+    <td><img src="https://cdn.simpleicons.org/crewai" width="48"/><br>CrewAI</td>
   </tr>
 
   <!-- ================= Data Science & Analytics ================= -->
@@ -57,7 +55,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/numpy" width="48"/><br>NumPy</td>
     <td><img src="https://cdn.simpleicons.org/pandas" width="48"/><br>Pandas</td>
-    <td><img src="https://cdn.simpleicons.org/matplotlib" width="48"/><br>Matplotlib</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48"/><br>Matplotlib</td>
     <td><img src="https://cdn.simpleicons.org/scikitlearn" width="48"/><br>Scikit-Learn</td>
     <td><img src="https://cdn.simpleicons.org/jupyter" width="48"/><br>Jupyter</td>
     <td><img src="https://cdn.simpleicons.org/kaggle" width="48"/><br>Kaggle</td>
@@ -88,8 +86,6 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
     <td><img src="https://cdn.simpleicons.org/redis" width="48"/><br>Redis</td>
     <td><img src="https://cdn.simpleicons.org/cockroachlabs" width="48"/><br>CockroachDB</td>
     <td><img src="https://cdn.simpleicons.org/supabase" width="48"/><br>Supabase</td>
-    <td></td>
-    <td></td>
   </tr>
 
   <!-- ================= DevOps, Cloud & Deployment ================= -->
@@ -102,7 +98,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
     <td><img src="https://cdn.simpleicons.org/netlify" width="48"/><br>Netlify</td>
     <td><img src="https://cdn.simpleicons.org/render" width="48"/><br>Render</td>
     <td><img src="https://cdn.simpleicons.org/railway" width="48"/><br>Railway</td>
-    <td><img src="https://cdn.simpleicons.org/microsoftazure" width="48"/><br>Azure</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="48"/><br>Azure</td>
     <td><img src="https://cdn.simpleicons.org/pythonanywhere" width="48"/><br>PythonAnywhere</td>
   </tr>
 
@@ -125,13 +121,12 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
     <td colspan="7" align="center"><b>💻 IDEs & Platforms</b></td>
   </tr>
   <tr align="center">
-    <td><img src="https://cdn.simpleicons.org/vscode" width="48"/><br>VS Code</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
     <td><img src="https://cdn.simpleicons.org/pycharm" width="48"/><br>PyCharm</td>
     <td><img src="https://cdn.simpleicons.org/intellijidea" width="48"/><br>IntelliJ</td>
     <td><img src="https://cdn.simpleicons.org/clion" width="48"/><br>CLion</td>
     <td><img src="https://cdn.simpleicons.org/eclipseide" width="48"/><br>Eclipse</td>
     <td><img src="https://cdn.simpleicons.org/anaconda" width="48"/><br>Anaconda</td>
-    <td><img src="https://cdn.simpleicons.org/modelcontextprotocol" width="48"/><br>MCP</td>
   </tr>
 
   <!-- ================= OS & Infra ================= -->
@@ -141,7 +136,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
   <tr align="center">
     <td><img src="https://cdn.simpleicons.org/linux" width="48"/><br>Linux</td>
     <td><img src="https://cdn.simpleicons.org/ubuntu" width="48"/><br>Ubuntu</td>
-    <td><img src="https://cdn.simpleicons.org/windows11" width="48"/><br>Windows</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="48"/><br>Windows</td>
     <td><img src="https://cdn.simpleicons.org/virtualbox" width="48"/><br>VirtualBox</td>
     <td><img src="https://cdn.simpleicons.org/apachehadoop" width="48"/><br>Hadoop</td>
     <td><img src="https://cdn.simpleicons.org/onnx" width="48"/><br>ONNX</td>
