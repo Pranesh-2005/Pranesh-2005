@@ -186,20 +186,20 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=pranesh-2005&show_icons=true&theme=radical&cache_seconds=0)  
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=radical)  
+![Stats](./profile/stats.svg)  
+![Top Langs](./profile/top-langs.svg)  
 
 ---
 
 ### 🔥 Contribution Streak
 
-![Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&show_icons=true&theme=radical)
+![Streak](./profile/streak.svg)
 
 ---
 
 ### ⏲ WakaTime Stats
 
-![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=praneshjs)
+![WakaTime](./profile/wakatime.svg)
 
 ---
 
