@@ -19,7 +19,7 @@ jobs:
         uses: Pranesh-2005/github-readme-stats-fast-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: Pranesh-2005/github-readme-stats-fast-action@v1
         with:
           card: streak
-          options: username=${{ github.repository_owner }}
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,7 +35,7 @@ jobs:
         uses: Pranesh-2005/github-readme-stats-fast-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}
+          options: username=${{ github.repository_owner }}&layout=compact&theme=radical
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
