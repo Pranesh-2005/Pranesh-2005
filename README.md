@@ -61,7 +61,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=ollama,langchain,crewai,n8n&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=ollama,langchain,crewai,n8n,mcp&titles=true"
     />
   </a>
 </h3>
