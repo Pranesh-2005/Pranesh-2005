@@ -179,7 +179,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 ### ☕ Support Me
 
-<a href="https://razorpay.me/@shanmugapriyapranesh" target="_blank">
+<a href="https://razorpay.me/@praneshjs" target="_blank">
   <img src="https://img.shields.io/badge/Support%20Me-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
 </a>
 
